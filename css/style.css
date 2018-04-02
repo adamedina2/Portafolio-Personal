@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway|Roboto:400,500');
+body {
+	font-size: 14px;
+	font-family: 'Raleway', sans-serif;
+}
+
+#sec-logo{
+	background-color: #070037;
+	padding: 100px;
+	
+}
+
+#about-me{
+	background-color: #CDC9C9;
+	color: #070037;
+	padding: 80px 80px 0px 80px;
+}
+
+.ilustracion{
+	padding-top: 130px;
+}
+
+
+
+#about-me h2{
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 20px;
+}
+
+#sec-servicio{
+	padding: 100px 0px 100px 0px;
+}
+
+#sec-servicio p{
+	color: #070037;
+}
+
+i {
+	color: #E2BA41;
+	
+}
+
+#sec-servicio h2{
+	
+	color: #D19525;
+	padding-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
+}
+
+#sec-servicio h3{
+	color: #D19525;
+}
+
+.cuadro{
+	background-color: #D7D7D2;
+	text-align: center;
+	padding: 50px 20px 20px;
+	border-radius: 10px;
+		
+}
+
+.cuadro h2{
+	padding-top: 20px;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.cuadro p{
+	padding-top: 20px;
+	color: #070037;
+}
+
+#gallery2{
+	padding-top: 50px;
+}
+#gallery3{
+	padding-top: 50px;
+}
+#works{
+	
+	padding: 50px;
+}
+
+#works h2{
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 50px;
+	color: #D19525;
+}
+
+
+
+#contact{
+	background-color: #1C3748;
+	color: #D19525;
+}
+
+#contact h2{
+	padding: 20px 0px 20px 0px;
+	font-weight: bolder;
+}
+
+.boton{
+	background-color:  #D19525;
+	color: #070037;
+}
+.navbar-default{
+	border: 0;
+	border-radius: 0;
+	background-color: #D7D7D2;
+	
+}
+
+#nav li:hover{
+	color:  #D19525;
+	
+}
+
+.skills{
+	padding-top: 40px;
+}
+
+.skills h3{
+	padding-bottom: 20px;
+}
+
+.experiencia{
+	padding-top: 25px;
+}
+
+.informacion{
+	padding-top: -50px;
+}
+
+.informacion fa{
+	font-size: 20px;
+}
